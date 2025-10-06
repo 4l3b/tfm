@@ -13,8 +13,8 @@ El objetivo principal del proyecto es identificar patrones predictivos en los da
 ## Fuentes de datos
 
 Los datos utilizados en este proyecto proceden de dos fuentes principales:  
-- **Trenitalia**, el principal operador ferroviario italiano: se realizó web scraping de la página web oficial de Trenitalia dedicada a las estaciones del Véneto.  
-- **TrainStats**, una plataforma que registra la actividad de trenes y horarios de paso por estación, de donde se extrajeron los registros de circulación y retrasos.  
+- **Trenitalia**, el principal operador ferroviario italiano: se realizó *web scraping* de la [página web](https://www.trenitalia.com/it/regionale/veneto/stazioni-servite-da-trenitalia-veneto.html) oficial de Trenitalia dedicada a las estaciones del Véneto.  
+- [**TrainStats**](https://trainstats.altervista.org)), una plataforma que registra la actividad de trenes y horarios de paso por estación, de donde se extrajeron los registros de circulación y retrasos.  
 
 Los datos se han utilizado exclusivamente con fines académicos y de investigación.
 
