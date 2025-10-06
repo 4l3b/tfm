@@ -10,7 +10,20 @@ El objetivo principal del proyecto es identificar patrones predictivos en los da
 
 ---
 
-## Fuentes de datos
+## Contenidos
+
+- **Carpeta `/notebooks/`**:  
+  Contiene los tres notebooks principales desarrollados durante el proyecto:
+  - **`1a_recopilación.ipynb`** – dedicado a la recopilación de los datos.
+  - **`1b_preprocesamiento.ipynb`** – enfocado en la limpieza, el preprocesamiento y la exploración de los datos.
+  - **`2_modelado.ipynb`** – centrado en el desarrollo, entrenamiento y evaluación del modelo de machine learning.
+
+- **`Memoria.pdf`**:  
+  Informe final del proyecto.
+
+---
+
+## Fuentes de los datos
 
 Los datos utilizados en este proyecto proceden de dos fuentes principales:  
 - **Trenitalia**, el principal operador ferroviario italiano: se realizó *web scraping* de la [página web](https://www.trenitalia.com/it/regionale/veneto/stazioni-servite-da-trenitalia-veneto.html) oficial de Trenitalia dedicada a las estaciones del Véneto.  
