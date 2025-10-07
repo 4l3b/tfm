@@ -26,7 +26,7 @@ El objetivo principal del proyecto es identificar patrones predictivos en los da
 ## Visualizaciones en Tableau Public
 
 - [**Dashboard interactivo**](https://public.tableau.com/app/profile/alessandro.bigolin/viz/Trains_Veneto/Trains_Veneto_Dashboard)  
-- [**Story (Resumen narrativo)**](https://public.tableau.com/app/profile/tu_usuario/viz/tu_story)
+- [**Story**](https://public.tableau.com/app/profile/tu_usuario/viz/tu_story) **(resumen narrativo)**
   
 ---
 
