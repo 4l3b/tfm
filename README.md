@@ -6,7 +6,7 @@ El TFM se centra en el análisis y la predicción de retrasos ferroviarios en la
 
 ## Objetivo
 
-El objetivo principal del proyecto es identificar patrones predictivos en los datos de retrasos ferroviarios y desarrollar un modelo capaz de anticipar si un tren llegará puntual o con retraso en cada estación de su recorrido.
+El objetivo principal del proyecto es identificar patrones predictivos en los datos de retrasos ferroviarios y desarrollar un modelo que intenta anticipar si un tren llegará puntual o con retraso en cada estación de su recorrido.
 
 ---
 
