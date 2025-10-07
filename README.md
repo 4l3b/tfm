@@ -18,7 +18,7 @@ El objetivo principal del proyecto es identificar patrones predictivos en los da
   - **`1b_preprocesamiento.ipynb`**: enfocado en la limpieza, el preprocesamiento y la exploración de los datos.
   - **`2_modelado.ipynb`**: centrado en el desarrollo, entrenamiento y evaluación del modelo de machine learning.
 
-- **`Memoria.pdf`**:  
+- **`memoria.pdf`**:  
   Informe final del proyecto.
 
 ---
