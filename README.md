@@ -1,4 +1,4 @@
-# TFM – Trenes en Véneto: Retrasos y modelo de clasificación
+# TFM – *Trenes en Véneto: Retrasos y modelo de clasificación*
 Este repositorio contiene el código y la memoria de mi Trabajo de Fin de Máster (TFM) para el máster en *Data Science e Inteligencia Artificial* de EBIS Business Techschool y EUNEIZ – Universidad de Vitoria-Gasteiz (2024–2025).
 El TFM se centra en el análisis y la predicción de retrasos ferroviarios en la región de Véneto (Italia), mediante técnicas de aprendizaje automático y visualización de datos.
 
