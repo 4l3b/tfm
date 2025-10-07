@@ -14,11 +14,11 @@ El objetivo principal del proyecto es identificar patrones predictivos en los da
 
 - **Carpeta `/notebooks/`**:  
   Contiene los tres notebooks principales desarrollados durante el proyecto:
-  - **`1a_recopilacion.ipynb`**: dedicado a la recopilación de los datos.
-  - **`1b_preprocesamiento.ipynb`**: enfocado en la limpieza, el preprocesamiento y la exploración de los datos.
-  - **`2_modelado.ipynb`**: centrado en el desarrollo, entrenamiento y evaluación del modelo de machine learning.
+  - [**`1a_recopilacion.ipynb`**](https://github.com/4l3b/tfm/blob/main/notebooks/1a_recopilacion.ipynb): dedicado a la recopilación de los datos.
+  - [**`1b_preprocesamiento.ipynb`**](https://github.com/4l3b/tfm/blob/main/notebooks/1b_preprocesamiento.ipynb): enfocado en la limpieza, el preprocesamiento y la exploración de los datos.
+  - [**`2_modelado.ipynb`**](https://github.com/4l3b/tfm/blob/main/notebooks/2_modelado.ipynb): centrado en el desarrollo, entrenamiento y evaluación del modelo de machine learning.
 
-- **`memoria.pdf`**:  
+- [**`memoria.pdf`**](https://github.com/4l3b/tfm/blob/main/memoria.pdf):  
   Informe final del proyecto.
 
 ---
